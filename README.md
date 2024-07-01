@@ -10,9 +10,9 @@
 - 📫 How to reach me: Connect with me on LinkedIn or by email at [els5@usf.edu](mailto:els5@usf.edu).
 - 😄 Pronouns: She/her/hers/ella
 - ⚡ Fun fact: When I am not working, I love working as an event volunteer, listening to music, or going to entertainment events!
-- 🏫 Education: MS Intelligence Studies @ University of South Florida
-  - BS Business Analytics and Information Systems |  Cybersecurity Concentration | Graduated May 2024
-  - BS Management |  Responsible and Inclusive Organizational (RIO) Leadership Concentration | Graduated May 2024 
+- 🏫 Education: MS Intelligence Studies | Strategic Intelligence Concentration @ University of South Florida
+  - BS Business Analytics and Information Systems |  Cybersecurity Concentration | Graduated May 2024 from University of South Florida
+  - BS Management |  Responsible and Inclusive Organizational (RIO) Leadership Concentration | Graduated May 2024 from University of South Florida
 
 
 
