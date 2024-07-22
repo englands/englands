@@ -6,7 +6,7 @@
 ### My eighth-grade career assessment was right when it said I should become a data scientist. It took me until the end of college to realize it.
 
 - 🔭 I'm currently working on studying for the Tableau Desktop Specialist exam, which I will be taking in August.
-- 🌱 I’m currently learning Tableau (honing in my skills for the exam), Python, and R.
+- 🌱 I’m currently learning Tableau (honing in my skills for the exam), Python, and R. I am also working on building a stronger SQL repository.          
 - 📫 How to reach me: Connect with me on LinkedIn or by email at [els5@usf.edu](mailto:els5@usf.edu).
 - 😄 Pronouns: She/her/hers/ella
 - ⚡ Fun fact: When I am not working, I love working as an event volunteer, listening to music, or going to entertainment events!
