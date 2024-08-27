@@ -14,5 +14,5 @@
   - BS Business Analytics and Information Systems |  Cybersecurity Concentration | Graduated May 2024 from University of South Florida
   - BS Management |  Responsible and Inclusive Organizational (RIO) Leadership Concentration | Graduated May 2024 from University of South Florida
 
-
+# <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6748ac2b-ce90-4187-ad98-1ccf3546f67f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
