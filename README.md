@@ -6,7 +6,7 @@
 ### My eighth-grade career assessment was right when it said I should become a data scientist. It took me until the end of college to realize it.
 
 - 🔭 I'm currently working on refreshing my SQL knowledge from my undergraduate career, and learning R.
-- 🌱 I’m learning SQL, Python, and R.       
+- 🌱 I’m learning SQL and R. I hope that my experience with SQL and R can help me get a better grasp on Python.       
 - 📫 How to reach me: Connect with me on LinkedIn or by email at [els5@usf.edu](mailto:els5@usf.edu).
 - 😄 Pronouns: She/her/hers/ella
 - ⚡ Fun fact: When I am not working, I love working as an event volunteer, listening to music, or attending entertainment events!
