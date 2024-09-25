@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Stephanie.
+## Hi there | Hola 👋 I'm Stephanie.
 
 # I am an aspiring Data Scientist / Data Information Manager with a passion for helping others. 
 ## I would love to work as a data analyst, data scientist, or data manager for a federal government agency in the intelligence community. 
