@@ -1,7 +1,7 @@
 ## Hi there | Hola 👋 I'm Stephanie.
 
-# The intersection between operations, technology, and people is what drives me in my career. Also, sprinkling in some financial information. 
-# I would love to work as a forensics analyst, operations analyst, financial crimes analyst, or intelligence analyst in the intelligence community, government agency, or financial/banking sphere. 
+## The intersection between operations, technology, and people is what drives me in my career. Also, sprinkling in some financial information. 
+## I would love to work as a forensics analyst, operations analyst, financial crimes analyst, or intelligence analyst in the intelligence community, government agency, or financial/banking sphere. 
 
 ### My eighth-grade career assessment was right when it said I should become a data scientist. It took me until the end of college to realize it.
 
