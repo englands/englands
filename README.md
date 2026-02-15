@@ -11,7 +11,7 @@
 My personal email is [englandstephanie657@gmail.com](mailto:englandstephanie657@gmail.com).
 - 😄 Pronouns: She/her/hers/ella
 - ⚡ Fun fact: When I am not working, I love working as an event volunteer, listening to music, or attending entertainment events!
-- 🏫 Education: MS Intelligence Studies | Strategic Intelligence Concentration @ University of South Florida, starting my MS in FinTech in Spring 2026 as a dual degree!
+- 🏫 Education: MS Fintech & MS Intelligence Studies | Strategic Intelligence Concentration @ University of South Florida, with certificates in National Security Studies and Latin American and Caribbean Studies!
   - BS Business Analytics and Information Systems |  Cybersecurity Concentration | Graduated May 2024 from University of South Florida
   - BS Management |  Responsible and Inclusive Organizational (RIO) Leadership Concentration | Graduated May 2024 from University of South Florida
 
